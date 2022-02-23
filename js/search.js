@@ -5,6 +5,8 @@ const search = function () {
   // input.addEventListener('input', (event) => {
   //   console.log(event.target.value);
   // })
+
+  
   searchBtn.addEventListener('click', () => {
     console.log(input.value);
   })
